@@ -10,7 +10,7 @@ public class AddressBookTest {
     public void givenContactInfo_afterFillContact_shouldReturnTrue() {
 
         AddressBookMain addressBookMain = new AddressBookMain();
-       // ContactPerson contactPerson = new ContactPerson();
+
 
     }
 }
