@@ -6,6 +6,10 @@ public class AddressBookMain {
     public static void main(String[] args) {
         System.out.println("Welcome to address book system");
 
+
+        /***Taking data through array list
+         *
+         */
         try{
             ArrayList<String> cList = new ArrayList();
             cList.add("Deepak");
